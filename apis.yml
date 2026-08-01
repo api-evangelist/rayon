@@ -1,8 +1,18 @@
 aid: rayon
 name: Rayon
-description: 'Rayon is a company surfaced as a portfolio company of northzone, seedcamp and added to the
-  API Evangelist network as a stub for enrichment. Sector: enterprise; ai. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Rayon is an AI-powered CAD (computer-aided design) platform built for interior
+  designers and architects, positioned as a modern, browser-based alternative to
+  legacy tools like AutoCAD and SketchUp. It provides professional 2D drafting and
+  BIM-like tools (walls, zones, openings), real-time collaborative editing,
+  annotation and dimensioning, layers and styles, parametric and library blocks,
+  schedule/table generation, and DWG/DXF/PDF/image import and export. AI features
+  cover asset generation, visualization, and image tracing, and teams can publish
+  shared libraries and templates and present projects to clients. Rayon is a
+  venture-backed company (Northzone, Seedcamp) delivered as a hosted web
+  application; as of this enrichment pass it publishes no public developer API,
+  SDK, webhook, or plugin surface — the product is end-user software with
+  documentation, an academy, and a community forum.
 url: https://raw.githubusercontent.com/api-evangelist/rayon/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +21,31 @@ x-backed-by:
 - seedcamp
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://www.rayon.design/opengraph-image.png
 tags:
 - Company
-- Enterprise; Ai
+- Enterprise
+- Artificial Intelligence
+- CAD
+- Architecture
+- Design
+- BIM
+- Interior Design
+- Collaboration
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +55,32 @@ maintainers:
 common:
 - type: Website
   url: https://rayon.design
+- type: Documentation
+  url: https://docs.rayon.design/documentation/rayon-documentation
+- type: DeveloperPortal
+  url: https://docs.rayon.design/
+- type: GettingStarted
+  url: https://docs.rayon.design/documentation/rayons-basics/start-here.md
+- type: Pricing
+  url: https://rayon.design/pricing
+- type: Blog
+  url: https://rayon.design/blog
+- type: Support
+  url: https://community.rayon.design/
+- type: SignUp
+  url: https://rayon.design/app/auth/signup
+- type: Login
+  url: https://rayon.design/app/auth/signin
+- type: TermsOfService
+  url: https://rayon.design/terms-of-service
+- type: PrivacyPolicy
+  url: https://rayon.design/privacy
+- type: LLMsTxt
+  url: llms/rayon-llms.txt
+- type: DomainSecurity
+  url: security/rayon-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1

@@ -1,0 +1,190 @@
+# Rayon Docs&#x20;
+
+## 🇺🇸 English
+
+- [Welcome to Rayon's resources](https://docs.rayon.design/welcome-to-rayons-resources.md): All you need to know about Rayon.
+- [Rayon documentation](https://docs.rayon.design/documentation/rayon-documentation.md): Looking for some guidance? You are at the right place!
+- [Rayon's basics](https://docs.rayon.design/documentation/rayons-basics.md): Know your way around the software in a matter of minutes!
+- [Start here!](https://docs.rayon.design/documentation/rayons-basics/start-here.md): Taking your first steps
+- [Signing up](https://docs.rayon.design/documentation/rayons-basics/signing-up.md): Creating your Rayon account.
+- [Your workspaces](https://docs.rayon.design/documentation/rayons-basics/your-workspaces.md): Organizing your models.
+- [Creating a new project](https://docs.rayon.design/documentation/rayons-basics/creating-a-new-project.md): Let’s create a model from scratch!
+- [Navigation & command access](https://docs.rayon.design/documentation/rayons-basics/navigation-and-command-access.md): Moving around in a model and calling commands.
+- [Drawing](https://docs.rayon.design/documentation/rayons-basics/drawing.md): Now let’s draw something!
+- [Sharing, commenting, annotating](https://docs.rayon.design/documentation/rayons-basics/sharing-commenting-annotating.md): Communicate & collaborate seamlessly.
+- [Wrapping up](https://docs.rayon.design/documentation/rayons-basics/wrapping-up.md): Closing this short intro.
+- [Design](https://docs.rayon.design/documentation/design.md): Everything about designing in Rayon!
+- [Setup](https://docs.rayon.design/documentation/design/setup.md): Setting up your drawing experience.
+- [Shape tools](https://docs.rayon.design/documentation/design/shape-tools.md): An exhaustive list of Rayon's shape drawing tool set.
+- [Editing tools](https://docs.rayon.design/documentation/design/editing-tools.md): An exhaustive list of Rayon's editing tool set.
+- [Elements: walls, zones, openings, etc](https://docs.rayon.design/documentation/design/elements-walls-zones-openings-etc.md): An exhaustive list of Rayon's BIM-like tool set.
+- [Annotations: dimensions, leaders, text](https://docs.rayon.design/documentation/design/annotations-dimensions-leaders-text.md): An exhaustive list of Rayon's annotation tool set.
+- [Associative Dimensions](https://docs.rayon.design/documentation/design/associative-dimensions.md): How to use Associative dimensions  in Rayon.
+- [Measurement: distance & area](https://docs.rayon.design/documentation/design/measurement-distance-and-area.md): Everything about Rayon's takeoff tools.
+- [Shortcuts](https://docs.rayon.design/documentation/design/shortcuts.md): Master Rayon's shortcuts to draw faster.
+- [Layers](https://docs.rayon.design/documentation/design/layers.md): Using layers to organize your drawings.
+- [Styles](https://docs.rayon.design/documentation/design/styles.md): Controlling your drawing's aesthetics.
+- [Images](https://docs.rayon.design/documentation/design/images.md): Everything about working with images in Rayon
+- [Texts](https://docs.rayon.design/documentation/design/texts.md): Working with texts in Rayon
+- [Blocks](https://docs.rayon.design/documentation/design/blocks.md): How to use block libraries in Rayon.
+- [Parametric blocks](https://docs.rayon.design/documentation/design/parametric-blocks.md): How to use parametric blocks in Rayon.
+- [Layout & present](https://docs.rayon.design/documentation/layout-and-present.md): Everything about designing in Rayon!
+- [Canvases](https://docs.rayon.design/documentation/layout-and-present/canvases.md): Creating dedicated spaces in your model.
+- [Views](https://docs.rayon.design/documentation/layout-and-present/views.md): Creating windows to reference your drawings.
+- [Pages](https://docs.rayon.design/documentation/layout-and-present/pages.md): Exporting your work as PDF or images.
+- [Tables](https://docs.rayon.design/documentation/layout-and-present/tables.md): Assign and list properties of your items.
+- [Custom properties](https://docs.rayon.design/documentation/layout-and-present/custom-properties.md): Assign and list properties of your items.
+- [Presenting your project](https://docs.rayon.design/documentation/layout-and-present/presenting-your-project.md): How to create a presentation for your project and share it
+- [Work with AI](https://docs.rayon.design/documentation/work-with-ai.md): Discover Rayon AI in a few simple workflows.
+- [Import/export](https://docs.rayon.design/documentation/import-export.md): Everything about importing/exporting in/from Rayon!
+- [DWG/DXF import](https://docs.rayon.design/documentation/import-export/dwg-dxf-import.md): All about importing AutoCAD files into Rayon.
+- [PDF & image import](https://docs.rayon.design/documentation/import-export/pdf-and-image-import.md): All about importing files into Rayon.
+- [Exporting & printing](https://docs.rayon.design/documentation/import-export/exporting-and-printing.md): As DWG, DXF, PDF, or images
+- [Publishing & sharing](https://docs.rayon.design/documentation/publishing-and-sharing.md): Everything about libraries and templates in Rayon.
+- [Sharing a model or a workspace](https://docs.rayon.design/documentation/publishing-and-sharing/sharing-a-model-or-a-workspace.md): How to share your work with colleagues, clients, etc.
+- [Publishing a library](https://docs.rayon.design/documentation/publishing-and-sharing/publishing-a-library.md): Create your own libraries to share blocks and styles with your teammates!
+- [Publishing a template](https://docs.rayon.design/documentation/publishing-and-sharing/publishing-a-template.md): How to create and use templates
+- [Team management & billing](https://docs.rayon.design/documentation/team-management-and-billing.md): Everything about managing your team, workspaces and billing.
+- [Workspaces](https://docs.rayon.design/documentation/team-management-and-billing/workspaces.md): Arrange your models into workspaces
+- [Teams](https://docs.rayon.design/documentation/team-management-and-billing/teams.md): All about working as an team in Rayon
+- [Pricing & billing](https://docs.rayon.design/documentation/team-management-and-billing/pricing-and-billing.md): Everything about our paid plans.
+- [Features series](https://docs.rayon.design/academy/features-series.md): The fundamental to get started with Rayon
+- [Switch](https://docs.rayon.design/other-resources/switch.md): Everything about switching from AutoCAD to Rayon
+- [Why switch to Rayon?](https://docs.rayon.design/other-resources/switch/why-switch-to-rayon.md): The essentials for transitioning from your legacy software to Rayon.
+- [How to switch to Rayon?](https://docs.rayon.design/other-resources/switch/how-to-switch-to-rayon.md): The essentials for transitioning from AutoCAD software to Rayon.
+- [Product updates](https://docs.rayon.design/other-resources/product-updates.md): Discover Rayon's new & improved features.
+- [June '26 Product Updates](https://docs.rayon.design/other-resources/product-updates/june-26-product-updates.md): Discover June's new & improved features.
+- [May '26 Product Updates](https://docs.rayon.design/other-resources/product-updates/may-26-product-updates.md): Discover May's new & improved features.
+- [April '26 Product Updates](https://docs.rayon.design/other-resources/product-updates/april-26-product-updates.md): Discover April's new & improved features.
+- [March '26 Product Updates](https://docs.rayon.design/other-resources/product-updates/march-26-product-updates.md): Discover March's new & improved features.
+- [February '26 Product Updates](https://docs.rayon.design/other-resources/product-updates/february-26-product-updates.md): Discover February's new & improved features.
+- [January '26 Product Updates](https://docs.rayon.design/other-resources/product-updates/january-26-product-updates.md): Discover January's new & improved features.
+- [November '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/november-25-product-updates.md): Discover November's new & improved features.
+- [October '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/october-25-product-updates.md): Discover October's new & improved features.
+- [September '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/september-25-product-updates.md): Discover September's new & improved features.
+- [August '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/august-25-product-updates.md): Discover August's new & improved features.
+- [July '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/july-25-product-updates.md): Discover July's new & improved features.
+- [June '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/june-25-product-updates.md): Discover June's new & improved features.
+- [May '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/may-25-product-updates.md): Discover May's new & improved features.
+- [April '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/april-25-product-updates.md): Discover April's new & improved features.
+- [March '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/march-25-product-updates.md): Discover March's new & improved features
+- [February '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/february-25-product-updates.md): Discover February's new & improved features
+- [January '25 Product Updates](https://docs.rayon.design/other-resources/product-updates/january-25-product-updates.md): Discover January's new & improved features
+- [December '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/december-24-product-updates.md): Discover December's new & improved features
+- [November '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/november-24-product-updates.md): Discover November's new & improved features
+- [V2 Product Updates](https://docs.rayon.design/other-resources/product-updates/v2-product-updates.md): Discover V2's new & improved features.
+- [July '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/july-24-product-updates.md): Discover July's new & improved features
+- [June '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/june-24-product-updates.md): Discover June's new & improved features
+- [May '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/may-24-product-updates.md): All of May's new and improved features
+- [April '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/april-24-product-updates.md): All of April's new and improved features 🙌
+- [March '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/march-24-product-updates.md): All of March's new and improved features 💫
+- [February '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/february-24-product-updates.md): All of February's feature improvements ✨
+- [January '24 Product Updates](https://docs.rayon.design/other-resources/product-updates/january-24-product-updates.md): All of January's new and improved features 🔥
+- [Rayon's '23 Product Evolution](https://docs.rayon.design/other-resources/product-updates/rayons-23-product-evolution.md): We've worked tirelessly throughout 2023 to improve Rayon just for you! Take a moment to ensure you're using all the features at your fingertips...  👉
+- [November 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/november-2023-changelog.md): All of November's improved features and news 🌟
+- [October 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/october-2023-changelog.md): All of October's new and improved features 🔥
+- [September 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/september-2023-changelog.md): All of September's new and improved features 💫
+- [August 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/august-2023-changelog.md): All of August's new and improved features 🔥
+- [July 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/july-2023-changelog.md): All of July's new and improved features 🌟
+- [June 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/june-2023-changelog.md): Check out June's new and improved features ☄️
+- [End of May 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/end-of-may-2023-changelog.md): Here are some new and improved features added to Rayon!
+- [May 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/may-2023-changelog.md): Take a look at the Rayon features that got improved this month, just for you!
+- [April 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/april-2023-changelog.md): All of April's new and improved features 🌟
+- [March 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/march-2023-changelog.md): All of March's new and improved features 🔥
+- [February 2023 Changelog](https://docs.rayon.design/other-resources/product-updates/february-2023-changelog.md): Check out February new and improved features 🎇
+- [Rayon V1](https://docs.rayon.design/other-resources/product-updates/rayon-v1.md): Introducing walls and tables 🧨
+- [Rayon V1 RC](https://docs.rayon.design/other-resources/product-updates/rayon-v1-rc.md): Dimensions, right click, and more! 🚀
+- [Apps](https://docs.rayon.design/other-resources/apps.md): Smalls apps, big help
+- [Maps](https://docs.rayon.design/other-resources/apps/maps.md): Site data for architects in 3 simple steps
+- [Portfolio](https://docs.rayon.design/other-resources/apps/portfolio.md): How to create a portfolio in a click
+- [Rayon for studying](https://docs.rayon.design/other-resources/rayon-for-studying.md): All you need to know about using Rayon in the academic context.
+- [Rayon for students](https://docs.rayon.design/other-resources/rayon-for-studying/rayon-for-students.md): Everything about our student plan, and how to get it.
+- [Rayon for faculty](https://docs.rayon.design/other-resources/rayon-for-studying/rayon-for-faculty.md): Everything about our plan for faculty; why and how to get it.
+- [Rayon for universities](https://docs.rayon.design/other-resources/rayon-for-studying/rayon-for-universities.md): Rayon's Academic plan for schools, universities, and academic institutions.
+- [FAQ](https://docs.rayon.design/other-resources/faq.md): Questions people usually ask, answers we usually give!
+- [Others](https://docs.rayon.design/other-resources/others.md): Some additional resources and information
+- [Support policy](https://docs.rayon.design/other-resources/others/support-policy.md): How Rayon users can get support
+- [System requirements](https://docs.rayon.design/other-resources/others/system-requirements.md): Setup we recommend to use for Rayon
+- [Refund policy](https://docs.rayon.design/other-resources/others/refund-policy.md)
+- [Team trial](https://docs.rayon.design/other-resources/others/team-trial.md): Work as a team, for free, for 30 days
+- [Private and Public Model Settings \[Beta\]](https://docs.rayon.design/other-resources/others/private-and-public-model-settings-beta.md): How to control visibility and access for your models
+- [Creating zoning plans in Rayon](https://docs.rayon.design/other-resources/others/creating-zoning-plans-in-rayon.md): All about using Rayon to draft zoning plans and extract and present information based on architectural drawings.
+
+## 🇫🇷 French
+
+- [Toutes les ressources](https://docs.rayon.design/french/readme.md): Tout ce que vous devez savoir à propos de Rayon
+- [Documentation](https://docs.rayon.design/french/documentation/rayon-documentation.md): Vous avez besoin de conseils ? Vous êtes au bon endroit !
+- [Les Fondamentaux](https://docs.rayon.design/french/documentation/rayons-basics.md): Maîtrisez le logiciel en quelques minutes !
+- [Qu'est ce que Rayon ?](https://docs.rayon.design/french/documentation/rayons-basics/what-is-rayon.md): En quelques mots et une démo.
+- [Créer votre compte](https://docs.rayon.design/french/documentation/rayons-basics/signing-up.md): Création de votre compte Rayon.
+- [Vos espaces de travail](https://docs.rayon.design/french/documentation/rayons-basics/your-workspaces.md): Organiser vos dessins dans .
+- [Créer un nouveau dessin](https://docs.rayon.design/french/documentation/rayons-basics/creating-a-new-project.md): Créons un dessin à partir de zéro !
+- [Navigation](https://docs.rayon.design/french/documentation/rayons-basics/navigating.md): Se déplacer sur le canevas
+- [Accès aux commandes](https://docs.rayon.design/french/documentation/rayons-basics/command-access.md): Choisissez le mode d'accès aux commandes qui convient à votre flux de travail
+- [Dessiner](https://docs.rayon.design/french/documentation/rayons-basics/drawing.md): Maintenant, dessinons quelque chose !
+- [Partager, commenter, annoter](https://docs.rayon.design/french/documentation/rayons-basics/sharing-commenting-annotating.md): Communiquer et collaborer en toute transparence.
+- [Les raccourcis](https://docs.rayon.design/french/documentation/rayons-basics/shortcuts.md): Maîtrisez les raccourcis de Rayon pour dessiner plus vite.
+- [Dessins et gestion d'équipe](https://docs.rayon.design/french/documentation/models-and-team-management.md): Tout ce qui concerne la gestion de votre organisation, de vos espaces de travail et de vos modèles, ainsi que l'importation et l'exportation vers et depuis Rayon (DWG, DXF, PDF, RY, PNG, JPEG).
+- [Importer](https://docs.rayon.design/french/documentation/models-and-team-management/importing-files.md): Tout sur l'importation de fichiers dans Rayon.
+- [Exporter](https://docs.rayon.design/french/documentation/models-and-team-management/exporting-and-printing.md): Sous forme de DWG, DXF, PDF ou d'images
+- [Sauvegarde & historique du dessin](https://docs.rayon.design/french/documentation/models-and-team-management/saving-and-model-history.md): Sauvegarde de votre travail et accès à l'historique de vos dessin
+- [Les organisations](https://docs.rayon.design/french/documentation/models-and-team-management/organizations.md): Tout sur le travail en tant qu'organisation à Rayon
+- [Les espaces de travail](https://docs.rayon.design/french/documentation/models-and-team-management/workspaces.md): Organisez vos dessins en espaces de travail
+- [Concevoir](https://docs.rayon.design/french/documentation/design.md): Tout sur la façon de concevoir un dessin dans Rayon !
+- [Configuration](https://docs.rayon.design/french/documentation/design/setup.md): Configuration de votre expérience de dessin.
+- [Commandes de création de formes](https://docs.rayon.design/french/documentation/design/drawing-tools.md): Une liste exhaustive de l'ensemble des commandes de dessin de formes de Rayon.
+- [Commandes d'édition](https://docs.rayon.design/french/documentation/design/editing-tools.md): Une liste exhaustive des commandes d'édition de Rayon.
+- [Commandes de création d'élements](https://docs.rayon.design/french/documentation/design/elements-walls-zones-openings-etc.md): Une liste exhaustive des outils de création d'éléments de Rayon.
+- [Commandes d'annotation : côtes, leaders, texte](https://docs.rayon.design/french/documentation/design/annotations-dimensions-leaders-text.md): Liste exhaustive des outils d'annotation de Rayon.
+- [Commandes de mesures : distance & aire](https://docs.rayon.design/french/documentation/design/measurement-distance-and-area.md): Tout sur les commandes de mesure de Rayon.
+- [Calques](https://docs.rayon.design/french/documentation/design/layers.md): Utiliser les calques pour organiser vos dessins.
+- [Styles](https://docs.rayon.design/french/documentation/design/styles.md): Contrôler l'esthétique de votre dessin.
+- [Images](https://docs.rayon.design/french/documentation/design/images.md): Tout sur le travail avec les images dans Rayon
+- [Blocs](https://docs.rayon.design/french/documentation/design/blocks.md): Comment utiliser les bibliothèques de blocs dans Rayon.
+- [Canevas](https://docs.rayon.design/french/documentation/design/canvases.md): Créer des espaces dédiés dans votre modèle.
+- [Vues](https://docs.rayon.design/french/documentation/design/views.md): Création de vues pour mettre en page vos dessins.
+- [Pages](https://docs.rayon.design/french/documentation/design/pages.md): Exporter votre travail au format PDF ou au format image.
+- [Propriétés personnalisés & tables](https://docs.rayon.design/french/documentation/design/metadata-and-tables.md): Attribuez et listez les propriétés de certains éléments.
+- [Publier et partager](https://docs.rayon.design/french/documentation/publishing-and-sharing.md): Tout sur les bibliothèques et les modèles dans Rayon.
+- [Partager un dessin ou un espace de travail](https://docs.rayon.design/french/documentation/publishing-and-sharing/sharing-a-model-or-a-workspace.md): Comment partager votre travail avec vos collègues, vos clients, etc.
+- [Publier une librairie](https://docs.rayon.design/french/documentation/publishing-and-sharing/publishing-a-library.md): Créez vos propres bibliothèques pour partager des blocs et des styles avec vos coéquipiers.
+- [Publier un modèle](https://docs.rayon.design/french/documentation/publishing-and-sharing/publishing-a-template.md): Comment créer et utiliser des modèles
+- [Présenter votre dessin](https://docs.rayon.design/french/documentation/publishing-and-sharing/presenting-your-project.md): Comment créer une présentation de votre dessin et la partager ?
+- [Mises à jour](https://docs.rayon.design/french/autres-ressources/product-updates.md): Découvrez les caractéristiques nouvelles et améliorées de Rayon.
+- [Juin 2025 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/june-25-product-updates.md): Découvrez les nouveautés et les améliorations du mois de juin.
+- [Mai 2025 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/may-25-product-updates.md): Découvrez les nouveautés et les améliorations du mois de mai.
+- [Avril 2025 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/april-25-product-updates.md): Découvrez les nouveautés et les améliorations du mois d'avril.
+- [Mars 2025 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/march-25-product-updates.md): Découvrez les nouveautés et les améliorations du mois de mars
+- [Février 2025 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/february-25-product-updates.md): Découvrez les nouveautés et améliorations de février
+- [Janvier 2025 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/january-25-product-updates.md): Découvrez les nouveautés et améliorations de janvier
+- [Décembre 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/december-24-product-updates.md): Découvrez les nouveautés et améliorations du mois de décembre
+- [Novembre 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/november-24-product-updates.md): Découvrez les nouveautés et améliorations du mois de novembre
+- [V2 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/v2-product-updates.md): Découvrez les nouveautés et les améliorations de la V2.
+- [Juillet 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/july-24-product-updates.md): Découvrez les nouveautés et améliorations du mois de juillet
+- [Juin 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/june-24-product-updates.md): Découvrez les nouveautés et les améliorations du mois de juin
+- [Mai 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/may-24-product-updates.md): Toutes les nouveautés et améliorations du mois de mai
+- [Avril 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/april-24-product-updates.md): Toutes les nouveautés et améliorations d'avril 🙌
+- [Mars 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/march-24-product-updates.md): Toutes les nouveautés et améliorations du mois de mars 💫
+- [Février 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/february-24-product-updates.md): Toutes les améliorations de février ✨
+- [Janvier 2024 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/january-24-product-updates.md): Toutes les nouveautés et améliorations de janvier 🔥
+- [Evolution de Rayon en 2023](https://docs.rayon.design/french/autres-ressources/product-updates/rayons-23-product-evolution.md): Nous avons travaillé sans relâche tout au long de l'année 2023 pour améliorer Rayon, rien que pour vous ! Prenez le temps de vous assurer que vous utilisez toutes les fonctionnalités à votre dispositi
+- [Novembre 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/november-2023-changelog.md): Toutes les améliorations et nouveautés de novembre 🌟
+- [Octobre 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/october-2023-changelog.md): Toutes les nouveautés et améliorations du mois d'octobre 🔥
+- [Septembre 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/september-2023-changelog.md): Toutes les nouveautés et améliorations de septembre 💫
+- [Août 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/august-2023-changelog.md): Toutes les nouveautés et améliorations du mois d'août 🔥
+- [Juillet 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/july-2023-changelog.md): Toutes les nouveautés et améliorations de juillet 🌟
+- [Juin 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/june-2023-changelog.md): Découvrez les nouveautés et les améliorations du mois de juin : ☄️
+- [Fin Mai 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/end-of-may-2023-changelog.md): Voici quelques nouveautés et améliorations apportées à Rayon !
+- [Mai 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/may-2023-changelog.md): Jetez un coup d'œil aux caractéristiques de Rayon qui ont été améliorées ce mois-ci, juste pour vous !
+- [Avril 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/april-2023-changelog.md): Toutes les nouveautés et améliorations d'avril 🌟
+- [Mars 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/march-2023-changelog.md): Toutes les nouveautés et améliorations du mois de mars 🔥
+- [Février 2023 Mise à jour](https://docs.rayon.design/french/autres-ressources/product-updates/february-2023-changelog.md): Découvrez les nouvelles fonctionnalités améliorées de février 🎇
+- [Rayon V1](https://docs.rayon.design/french/autres-ressources/product-updates/rayon-v1.md): Présentation des murs et des tables 🧨
+- [Rayon V1 RC](https://docs.rayon.design/french/autres-ressources/product-updates/rayon-v1-rc.md): Dimensions, clic droit, et plus encore ! 🚀
+- [FAQ](https://docs.rayon.design/french/autres-ressources/faq.md): Les questions que les gens posent habituellement et les réponses que nous donnons habituellement.
+- [Concevoir un plan de zonage dans Rayon](https://docs.rayon.design/french/autres-ressources/creating-zoning-plans-in-rayon.md): Tout sur l'utilisation de Rayon pour créer des plans de zonage et extraire et présenter des informations à partir de dessins architecturaux.
+- [Divers](https://docs.rayon.design/french/others.md): Quelques ressources et informations supplémentaires
+- [Configuration Système recommandée](https://docs.rayon.design/french/others/system-requirements.md): Configuration que nous recommandons d'utiliser pour Rayon
+- [Passer à Rayon](https://docs.rayon.design/french/others/switching-to-rayon.md): L'essentiel pour passer de votre ancien logiciel à Rayon.
+- [Rayon pour les étudiants](https://docs.rayon.design/french/others/rayon-for-students.md): Tout sur notre plan étudiant, et comment l'obtenir.
+- [Politique de remboursement](https://docs.rayon.design/french/others/refund-policy.md): Une erreur s'est produite, vous avez payé une licence sans le vouloir ? Pas de souci nous pouvons vous rembourser sous certaines conditions.
