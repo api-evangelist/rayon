@@ -1,0 +1,49 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.rayon.design/pricing
+sources:
+- https://www.rayon.design/pricing
+- https://rayon.design/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: tiered-subscription
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Pro
+published: true
+note: Monthly/yearly toggle; yearly discount not quantified. Team plan also offers 'talk to sales'.
+plan_count: 3
+currency: USD
+plans:
+- name: Free
+  price_text: $0
+  price: 0
+  currency: USD
+  period: month
+  included_quota: Full editing experience; Unlimited public models; Async support; Limited PDF & DWG export;
+    Limited block & style libraries; 7 days model history; AI support only
+- name: Pro
+  price_text: $21
+  price: 21
+  currency: USD
+  period: month
+  unit: per month
+  included_quota: Everything on Free plan; Unlimited private models; Full PDF and DWG export; Unlimited
+    model history; 100 AI credits per week
+- name: Team
+  price_text: $38
+  price: 38
+  currency: USD
+  period: month
+  unit: per month, per editor
+  included_quota: Everything on Pro plan; Team templates and libraries; Team-level billing; 200 AI credits
+    per week; Try it for free for 15 days
+rate_limit_statements:
+- 100 AI credits per week
+- 200 AI credits per week
