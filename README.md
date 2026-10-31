@@ -64,6 +64,93 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rayon is a company surfaced as a portfolio company of northzone, seedcamp and added to the API Evangelist network as a stub for enrichment. Sector: enterprise; ai. This profile is a lead awaiting the enrichment pipeline.
+Rayon is an AI-powered CAD (computer-aided design) platform built for interior designers and architects, positioned as a modern, browser-based alternative to legacy tools like AutoCAD and SketchUp. It provides professional 2D drafting and BIM-like tools (walls, zones, openings), real-time collaborative editing, annotation and dimensioning, layers and styles, parametric and library blocks, schedule/table generation, and DWG/DXF/PDF/image import and export. AI features cover asset generation, visualization, and image tracing, and teams can publish shared libraries and templates and present projects to clients. Rayon is a venture-backed company (Northzone, Seedcamp) delivered as a hosted web application; as of this enrichment pass it publishes no public developer API, SDK, webhook, or plugin surface — the product is end-user software with documentation, an academy, and a community forum.
 
-Backed by: northzone, seedcamp — https://rayon.design
+**Areas:** Company · Enterprise · Artificial Intelligence · CAD · Architecture · Design · BIM · Interior Design · Collaboration
+
+## Rayon on APIs.io
+
+Everything profiled for Rayon is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rayon/](https://apis.io/providers/rayon/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rayon Domain Security](https://apis.io/security/rayon/rayon-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Rayon Plans Pricing](https://apis.io/plans/rayon/rayon-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rayon.design)
+- [Documentation](https://docs.rayon.design/documentation/rayon-documentation)
+- [Getting started](https://docs.rayon.design/documentation/rayons-basics/start-here.md)
+- [Pricing](https://rayon.design/pricing)
+- [Sign up](https://rayon.design/app/auth/signup)
+- [Support](https://community.rayon.design/)
+- [Blog](https://rayon.design/blog)
+- [Terms of service](https://rayon.design/terms-of-service)
+- [Privacy policy](https://rayon.design/privacy)
+
+## API Evangelist rating
+
+**Kin Score 28.1** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 76.3 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rayon/](https://apis.io/providers/rayon/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rayon: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rayon/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
